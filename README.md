@@ -15,3 +15,11 @@
 - Thumbs Up: 👍
 - kissing face:😗
 
+## Keyboard functions 
+- control C= Copy
+- Control V= Paste
+- Shift + letter= Capital
+
+# shortcuts I dont use
+- Control,alt,delete
+  
