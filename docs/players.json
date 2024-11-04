@@ -1,5 +1,5 @@
 {
-    "name": "Serena Williams", // string
+    "name": "serena Williams", // string
     "sport": "Tennis",         // string
     "team": null,              // null
     "position": "Player",      // string
