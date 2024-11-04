@@ -1,3 +1,26 @@
+[
+    {
+        "name": "LeBron James",
+        "sport": "Basketball",
+        "team": {
+            "name": "Lakers",
+            "city": "Los Angeles"
+        },
+        "position": "Forward",
+        "age": 38
+    },
+    {
+        "name": "Lionel Messi",
+        "sport": "Soccer",
+        "team": {
+            "name": "Inter Miami",
+            "city": "Miami"
+        },
+        "position": "Forward",
+        "age": 36
+    },
+]
+
 {
     "name": "serena Williams", // string
     "sport": "Tennis",         // string
