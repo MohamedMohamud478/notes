@@ -1,1 +1,7 @@
-
+{
+    "name": "Serena Williams", // string
+    "sport": "Tennis",         // string
+    "team": null,              // null
+    "position": "Player",      // string
+    "age": 41                  // integer
+}
